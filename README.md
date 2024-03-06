@@ -13,3 +13,9 @@ This project is a Java application that simulates an ordering system for pizzas 
 - **Decorator**: This pattern is used to add additional features or behaviors to a pizza, such as crusts and toppings, without modifying the existing class hierarchy.
 
 - **Template Method**: This pattern is used to define the skeleton of an algorithm for preparing a beverage, and let subclasses provide the specific steps for different types of beverages, such as hot or cold, and with or without condiments.
+
+## Class Diagram
+
+The following diagram shows the main classes and their relationships in the project:
+
+![method](https://raw.githubusercontent.com/Baconbuilder/OOTeamwork/master/docs/ClassDiagram.jpg)
