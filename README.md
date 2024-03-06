@@ -18,4 +18,4 @@ This project is a Java application that simulates an ordering system for pizzas 
 
 The following diagram shows the main classes and their relationships in the project:
 
-![method](https://raw.githubusercontent.com/Baconbuilder/OOTeamwork/master/docs/ClassDiagram.jpg)
+![method](https://raw.githubusercontent.com/Baconbuilder/OOTeamwork/master/doc/ClassDiagram.jpg)
